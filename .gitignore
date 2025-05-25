@@ -1,0 +1,10 @@
+.DS_Store
+*.log
+node_modules/
+vendor/
+*.zip
+*.bak
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
