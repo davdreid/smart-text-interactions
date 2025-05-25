@@ -25,6 +25,18 @@ _(Add screenshots to /assets and link here if needed)_
 
 This plugin is licensed under the GPLv2 or later. See `LICENSE.txt` for details.
 
+## Screenshots
+
+1. Plugin settings page  
+   ![](assets/screenshot-1.png)
+
+2. Custom highlight in use  
+   ![](assets/screenshot-2.png)
+
+3. Tooltip appears when copying text  
+   ![](assets/screenshot-3.png)
+
+
 ---
 
 Developed by [Pixelhub Media](https://pixelhubmedia.com)
